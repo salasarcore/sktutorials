@@ -34,7 +34,7 @@ blinkeffect(this);
 		<div class="contactus"><span style="color:#efefef"><i class="icon-phone"></i></span> Call Us : <span>+91 8879259139</span></div><!--/ .vcard-->
 		<div class="clear"></div>
 		<div class="contactus">
- <span id="txtblnk"><strong><a href="http://skt.salasaredu.com/apply_online.php" target="_blank" style="color:blue;Font-size:15px;">Free Registration</a></strong></span>
+ <!--span id="txtblnk"><strong><a href="http://skt.salasaredu.com/apply_online.php" target="_blank" style="color:blue;Font-size:15px;">Free Registration</a></strong></span-->
 		
 		<span style="color:#efefef"><i class="icon-user"></i></span> <a href="#" title="Register" style="color: #00CCFF;">Downloads</a> | <a href="http://skt.salasaredu.com/academic_calender.php" title="Eventd" style="color: #00CCFF;">Events</a>
 		<div class="align-right"><a href="http://skt.salasaredu.com/contactusschool.php" title="Login"><img src="images/ef.gif" /></a></div>
