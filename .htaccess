@@ -1,0 +1,9 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^sktutorials\.co\.in
+RewriteRule ^(.*)$ http://www.sktutorials.co.in/$1 [R=permanent,L]
+RewriteCond %{THE_REQUEST} ^sktutorials.co.in/index.php
+RewriteRule ^(.*)index.php$ http://www.sktutorials.co.in/$1 [R=301,L] 
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+</IfModule>
